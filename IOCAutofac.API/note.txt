@@ -1,0 +1,2 @@
+﻿Sources:
+https://olepetterdahlmann.com/2016/12/08/ioc-in-asp-net-web-api-projects/
